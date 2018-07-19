@@ -1,0 +1,29 @@
+body {
+	padding: 20px 40px;
+	text-align: justify;
+}
+header {
+	font-size: 48px;
+	font-weight: 700;
+	text-align: center;
+}
+.flex {
+	display: flex;
+}	
+.flex-1 {
+	flex: 1;
+	margin: 20px;
+	padding:20px;
+	background-color: #ededed9e;
+	border-radius: 10px;
+}
+.bordered {
+	border: 0px solid blue;
+	
+}
+.background-grey {
+	background-color: #ededed9e;
+}
+img {
+	width: 100%;
+}
